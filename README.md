@@ -1,6 +1,7 @@
 # ✈️ Proyecto de Automatización y Videovigilancia: Hangar 3 de Airbus
 
 **Grado en Ingeniería Electrónica, Robótica y Mecatrónica (GIERM) - Universidad de Málaga (UMA)** 
+
 *Asignatura: Proyectos Integrados (2025/26)*
 
 ---
