@@ -13,6 +13,7 @@ El proyecto abarca el diseño, cálculo y presupuesto de:
 - **Sistema de Videovigilancia:** Diseño del circuito cerrado (CCTV) con almacenamiento local y cumplimiento normativo.
 
 - [Plano 1-2-1](./planos_pdf/1-2-1.pdf)
+- [Plano 1-2-2](./planos_pdf/1-2-2.pdf)
 - [Plano 1-2-3](./planos_pdf/1-2-3.pdf)
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
@@ -22,7 +23,7 @@ El proyecto abarca el diseño, cálculo y presupuesto de:
 
 
 ## 📂 Estructura del Repositorio
-- `📄 PR-PI26-06.pdf`: Documento técnico principal y anexos.
+- `📄 PR-PI26-06.pdf`(./planos_pdf): Documento técnico principal y anexos.
 - `📁 planos_dwg/`: Archivos DWG con la distribución de planta y secciones.
 - `📁 planos_pdf/`: Archivos PDF con la distribución de planta y secciones.
 
