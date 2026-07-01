@@ -12,21 +12,19 @@ El proyecto abarca el diseño, cálculo y presupuesto de:
 - **Instalación Eléctrica:** Diseño de cuadros generales, líneas de distribución y sistemas de alimentación ininterrumpida (SAI).
 - **Sistema de Videovigilancia:** Diseño del circuito cerrado (CCTV) con almacenamiento local y cumplimiento normativo.
 
-*(Aquí puedes añadir una imagen representativa del proyecto: un render de iluminación o un plano)*
-`![Plano General](./img/plano_general.png)`
+- [Plano 1-2-1](./planos_pdf/1-2-1.pdf)
+- [Plano 1-2-3](./planos_pdf/1-2-3.pdf)
 
 ## 🛠️ Tecnologías y Herramientas Utilizadas
-*(Edita esta lista según los programas reales que hayáis usado)*
 - **AutoCAD:** Diseño de planos y distribución de sensores/cámaras.
-- **DIALux evo:** Simulación y cálculo lumínico.
-- **Excel:** Elaboración de mediciones y presupuesto (Presupuesto Base de Licitación: 190.154,80 €).
-- **[Añadir software de control/PLCs si aplica]**
-- **LaTeX:** Redacción y maquetación del documento técnico.
+- **DIALux 4.13:** Simulación y cálculo lumínico.
+- **Excel:** Elaboración de mediciones y presupuesto (Presupuesto Final: 294.494,72 €).
+
 
 ## 📂 Estructura del Repositorio
 - `📄 PR-PI26-06.pdf`: Documento técnico principal y anexos.
-- `📁 planos/`: Archivos DWG con la distribución de planta y secciones.
-- `📁 calculos/`: Hojas de cálculo y archivos de simulación lumínica.
+- `📁 planos_dwg/`: Archivos DWG con la distribución de planta y secciones.
+- `📁 planos_pdf/`: Archivos PDF con la distribución de planta y secciones.
 
 ## 👥 Equipo Redactor
 Este proyecto ha sido desarrollado por:
