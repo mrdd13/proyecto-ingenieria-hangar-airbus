@@ -23,7 +23,7 @@ El proyecto abarca el diseño, cálculo y presupuesto de:
 
 
 ## 📂 Estructura del Repositorio
-- `📄 PR-PI26-06.pdf`(./PR-PI26-06.pdf): Documento técnico principal y anexos.
+- `📄 PR-PI26-06.pdf`(https://github.com/mrdd13/proyecto-ingenieria-hangar-airbus/blob/main/PR-PI26-06.pdf): Documento técnico principal y anexos.
 - `📁 planos_dwg/`: Archivos DWG con la distribución de planta y secciones.
 - `📁 planos_pdf/`: Archivos PDF con la distribución de planta y secciones.
 
