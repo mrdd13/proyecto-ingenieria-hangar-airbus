@@ -22,13 +22,15 @@ El proyecto abarca el diseño, cálculo y presupuesto de:
 - **AutoCAD:** Diseño de planos y distribución de sensores/cámaras.
 - **DIALux 4.13:** Simulación y cálculo lumínico.
 - **Excel:** Elaboración de mediciones y presupuesto (Presupuesto Final: 294.494,72 €).
-
+- **Project Libre:** Gestión y planificación del cronograma mediante el diagrama de Gantt.
 
 ## 📂 Estructura del Repositorio
 - [`📄 PR-PI26-06.pdf`](https://github.com/mrdd13/proyecto-ingenieria-hangar-airbus/blob/main/PR-PI26-06.pdf): Documento técnico principal y anexos.
 - [`📁 planos_dwg/`](planos_dwg): Archivos DWG con la distribución de planta y secciones.
 - [`📁 planos_pdf/`](./planos_pdf): Archivos PDF con la distribución de planta y secciones.
-
+- [`💡Iluminacion_Total.dlx`](Iluminacion_Total.dlx): Archivo de cálculo y diseño lumínico.
+- [`📝Diagrama_Gantt_Final.xml.pod`](Diagrama_Gantt_Final.xml.pod): Cronograma detallado del proyecto.
+  
 ## 👥 Equipo Redactor
 Este proyecto ha sido desarrollado por:
 - **Maya Ruiz Díaz** (@mrdd13)
